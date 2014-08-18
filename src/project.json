@@ -1,0 +1,18 @@
+{
+    "authors": [
+        "Erlimar Silva Campos"
+    ],
+    "description": "Exemplo simples de uso do Krunt",
+    "version": "0.1-aspnet-alpha3",
+    "code": "**\\*.cs",
+    "dependencies": {
+        "E5R.Krunt": "0.1-aspnet-alpha3"
+    },
+    "commands": {
+        "krunt": "E5R.Krunt"
+    },
+    "frameworks": {
+        "net45": {},
+        "k10": {}
+  }
+}
